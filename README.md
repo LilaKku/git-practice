@@ -1,5 +1,7 @@
-# Git Practice
+# Git Practice for Technical Writing
 
 Learning Git for technical writing.
 
-This repository is for practicing Git and GitHub workflows.
+This file documents my Git learning process.
+
+This repository is for practicing documentation workflows with Git and GitHub.
